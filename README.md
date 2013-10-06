@@ -19,7 +19,8 @@ how to implement them then please do them for me!
 
  Here are some notes or articles ( most of them are wrote in Chinese) for your reference.
  + [Evernote sharing notes][1]
- + [Mknotes sharing notes][2]
+
+Please rename the README.md to README if some strange error happens!:)
 
 
 Basic Installation
@@ -45,4 +46,3 @@ original readme and other infomation.
 
 [0]: http://www.gnu.org/software/zebra/
 [1]: https://www.evernote.com/pub/mengyingchina/simshell
-[2]: http://note.sdo.com/u/mengyingchina/c/prm_i~jZSUWFnM23o000yD
